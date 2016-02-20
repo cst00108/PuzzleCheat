@@ -1,0 +1,3 @@
+9 Squares:  95,126,814,720 possibilities
+4 Squares: 	         6,144 possibilities
+1 Square: 	             4 possibilities

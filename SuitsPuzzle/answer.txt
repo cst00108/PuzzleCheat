@@ -1,0 +1,28 @@
+Piece Number:  7
+Piece Side:    0
+
+Piece Number:  5
+Piece Side:    1
+
+Piece Number:  9
+Piece Side:    1
+
+Piece Number:  3
+Piece Side:    0
+
+Piece Number:  2
+Piece Side:    1
+
+Piece Number:  8
+Piece Side:    1
+
+Piece Number:  1
+Piece Side:    0
+
+Piece Number:  4
+Piece Side:    1
+
+Piece Number:  6
+Piece Side:    1
+
+Only took 6,435,217,723 combinations to find.
